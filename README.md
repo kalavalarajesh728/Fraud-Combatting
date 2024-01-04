@@ -1,0 +1,1 @@
+This project deals with most importnt topic of fraud combatting and it solve phishing attacks by marking mails as spam or ham. Next this project deals with analyzing customer spend patterns to mark the transactions as flagged or not which will trigger MFA. 
